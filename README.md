@@ -1,5 +1,4 @@
 # react-projects-7-slider
+John Smilga React course Udemy
 
-#### IN ACTION
 
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
